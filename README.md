@@ -34,15 +34,6 @@ This project focuses on building a machine learning model to predict **energy lo
 
 ---
 
-## 📊 Sample Outputs
-
-<img src="your_output_graph_1.png" width="400"/>
-<img src="your_output_graph_2.png" width="400"/>
-
-> *(Replace with actual output plots or remove this section if not available)*
-
----
-
 ## 🧪 How to Run
 
 1. Clone this repository:
